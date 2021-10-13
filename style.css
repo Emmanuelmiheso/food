@@ -270,3 +270,16 @@ color: #6FB944;
 .Explore{
     color:#81C35A;
 }
+.footer_container .foot2{
+    width: 160px;
+    margin-right: 500px;
+}
+.footer_container .foot1{
+    width: 12%;
+    border-right: 2px dotted #81C35A;
+}
+.footer_container .foot3{
+    display: flex;
+    flex-direction: column;
+    width: 180px;
+}
