@@ -36,3 +36,44 @@ ul li a:hover{
 i{
     border-color: black;
 }
+.title{
+    text-align: center;
+    margin-bottom: 10px;
+}
+.title h2{
+    font-weight: bold;
+}
+.top_img img{
+    margin-left: 65%;
+    margin-top: 50px;
+    width: 80px;
+    border-bottom: 2px dotted #6CB840;
+}
+.food_title{
+    float: left;
+    margin-left: 128px;
+    width: 400px;
+}
+.street{
+color: #6FB944;
+}
+.food{
+ color: #EAAC3A;
+}
+
+.img_container1{
+    float: right;
+}
+.img_container1 img:nth-child(1){
+    margin-right: 150px;
+    width: 80px;
+}
+.img_container1 img:nth-child(2){
+    margin-right: 260px;
+    margin-top: 25px;
+    width: 80px;
+}
+.img_container2{
+    float: right;
+    /* display:flex; */
+}
