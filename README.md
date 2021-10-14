@@ -1,19 +1,76 @@
 # food-website
-<h1 align="center">Hi 👋, I'm emmanuel miheso</h1>
-<h3 align="center">A software developer from kenya</h3>
+##### By Emmanuel miheso
+### This is a description of my website
 
-- 🔭 I’m currently working on [photography website](https://github.com/Emmanuelmiheso/photography)
+## Table of Content
++ [name](#name)
++ [Description](#description)
++ [Auther](#auther)
++ [Technology Used](#technology-used)
++ [Installation](#installation)
++ [licence information](#licence)
 
-- 👯 I’m looking to collaborate on [https://github.com/Emmanuelmiheso/photography](https://github.com/Emmanuelmiheso/photography)
+## name
 
-- 📫 How to reach me **kuveshee@gmail.com**
+<p>food website</p>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://fb.com/miheso" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="miheso" height="30" width="40" /></a>
-<a href="https://instagram.com/miheso" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="miheso" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/miheso" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="miheso" height="30" width="40" /></a>
-</p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> </p>
+## description
+<p>This is a food website,that contains all the knowledge and skills that I  have about HTML & CSS </p>
+<p> it is a landing page website </p>
+<p> The website has been styled by different colours to make it attractive to ones eyes </p>
+<p>StreetFood Website is divided into the following sections:</p>
+<p>The head section which consists of a links to various pages and also images of some food staffs that is offered. It also consists of a button that one can use to order food items</p>
+<p>A body content that is subdivided into various sections which also presents some of food items that customers can order. There is also a section where customers can contact us and are provided a field where they are suppose to write their email addresses.<p>
+<p> A footer section that describes open hours of the restraurant as well as the location of the restraurant.<p>
+
+## Auther
+  <p>Emmanuel miheso</p>
+
+### Technology Used
+* HTML
+
+* CSS  
+ ## installation
+ * Clone the project from the repository then run index file on any of the browser.
+
+
+### license
+MIT License
+MIT
+
+Copyright (c) [2021] [Emmanuel miheso]
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "food-website"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+## contact
+
+
+
+
+
+
+
+
+
+
+
+
+
+
